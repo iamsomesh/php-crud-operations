@@ -1,0 +1,36 @@
+.border-class{
+    border:thin black solid;
+    padding:20px;
+    border-radius:1em;
+}
+h2{
+    text-align:center;
+}
+#logout{
+    margin:20px; 
+    float:right;
+}
+#add{
+    margin:20px; 
+    float:left;
+}
+#loginForm, #addUser, #editUser{
+    margin:15%;
+}
+h1{
+    text-align:center; 
+    margin-bottom:20px;
+}
+.btn-sussess .btn .view{
+    float: right;
+    margin-left: 847px;
+    margin-top: 32px;
+}
+.text-color
+{
+    color: black;
+}
+h6
+{
+    color: red;
+}
